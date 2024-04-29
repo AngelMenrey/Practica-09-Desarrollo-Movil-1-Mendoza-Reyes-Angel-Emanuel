@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Practica09MendozaReyesAngelEmanuel</string>
+    <string name="titulo">Sutil Ambigüedad</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo Eléctronico</string>
+    <string name="informacion">Sutil Ambigüedad es el lugar ideal para los amantes de la historia y los coleccionistas apasionados por los artefactos que cuentan historias del pasado. Ofrecemos una amplia selección de piezas únicas, como joyas, muebles antiguos y relojes hermosos, que capturan la esencia de diferentes épocas. Nos destacamos por nuestros precios accesibles sin comprometer la calidad, garantizando que cada artículo esté en excelentes condiciones. Puedes contactarnos a través de correo electrónico en sutilambiguedad@gmail.com o llamando al 3314331809. Visítanos en nuestras sucursales ubicadas en C. Nueva Escocia 1885, 44630 Guadalajara, Jal.</string>
+    <string-array name="antiguedades">
+        <item>Joyas</item>
+        <item>Monedas</item>
+        <item>Armas</item>
+        <item>Instrumentos musicales</item>
+        <item>Arte</item>
+        <item>Muebles</item>
+        <item>Relojes</item>
+    </string-array>
+    <string name="descripcion">Descripcion del Producto</string>
+    <string name="formulario">Formulario</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sutil Ambigüedad</string>
+    <string name="nav_header_subtitle">sutilambiguedad@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesión</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Antigüedades</string>
+    <string name="menu_slideshow">Información</string>
+    <string name="menu_contacto">Contacto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
